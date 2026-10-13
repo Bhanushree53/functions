@@ -1,4 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
+
+#define MAX_VISITORS 100
 
 typedef struct
 {
@@ -73,4 +75,6 @@ int main(void)
 
     return 0;
 }
+
+
 
